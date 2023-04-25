@@ -41,3 +41,6 @@ dump.rdb
 
 # we store here the output of the "sanitized" repo
 output
+
+# removing the readme
+Readme.md
